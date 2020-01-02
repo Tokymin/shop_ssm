@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/annotations-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/catalina-ant.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/catalina-ha.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/catalina-tribes.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/catalina.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/ecj-4.9.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/el-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/jasper-el.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/jasper.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/jaspic-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/jsp-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/servlet-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-api.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-coyote.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-jni.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-util.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/tomcat-websocket.jar!/" />
+      <root url="jar://C:/Program Files (x86)/apache-tomcat-9.0.17/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
